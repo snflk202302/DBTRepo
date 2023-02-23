@@ -36,3 +36,8 @@ models:
     # Applies to all files under models/example/
     example:
       materialized: view
+
+vars:
+  schema_apac: APAC
+  schema_name: PUBLIC
+  region_name: UNK
